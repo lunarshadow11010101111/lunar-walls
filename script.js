@@ -15,6 +15,10 @@ const wallpapers = [
     cat: "minimal"
   },
   { 
+    src: "https://github.com/lunarshadow11010101111/lunar-walls/blob/main/06b92f26918e202a6464c25f50b3fe8f.jpg",
+    cat: "minimal"
+  },
+  { 
     src: "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
     cat: "nature"
   }
@@ -52,3 +56,4 @@ buttons.forEach(btn => {
 });
 
 loadWalls("all");
+
